@@ -1,4 +1,4 @@
-# arbor_arpex_1610
+# Arbor Arpex 1610 Digital IO code
 Small library and demo program written in C# showing how to talk to the Digital IO system built into the now rather old Arbor Arpex-1610 industrial box PC.
 
 In august 2019 I took on a small task (WHich turned out to be not so small) to recondition and program 2 10 year old specialized industrial box PC units, made by the Tiwaneese firm Arobor Technology.
