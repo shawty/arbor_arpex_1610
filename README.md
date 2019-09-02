@@ -5,7 +5,7 @@ In august 2019 I took on a small task (WHich turned out to be not so small) to r
 
 The PC's themselves from a software point of view where fairly standard X86 32 Bit intel Atom based units, both capable of running most 32 bit versions of both Linux and Windows based operating systems.
 
-After replacing the hard drives in them with new SSD's and installing Debian 8 on one device, and windows Embedded COmpact 7 on the other, I then set about trying to work out how the I/O system on the devices was used.
+After replacing the hard drives in them with new SSD's and installing Debian 8 on one device, and windows Embedded Compact 7 on the other, I then set about trying to work out how the I/O system on the devices was used.
 
 Each unit has a thin green pin based connector on one side of the main chassis, 4 of the pins are Digital Inputs for reading switches or other binary based inputs.  The next along are 4 digital output's, they don't have a particulaly high current drive, and only just managed to deliver 5v but they are enough to switch a transistor to drive a higher power load.
 
